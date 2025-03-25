@@ -1,1 +1,3 @@
 # shoppy-redux-server
+
+AWS 
